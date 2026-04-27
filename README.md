@@ -2,7 +2,7 @@
 
 A sleek, dark-themed web app for browsing and managing your favorite programming books. Built with TypeScript, vanilla JS, and a custom CSS design system.
 
-![App Preview](screenshot.png)
+![App Preview](screenshot.jpg)
 
 ## ✨ Features
 
